@@ -1,10 +1,17 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T20:13:16.707Z",
-    "original_repository": "awesomedata/awesome-public-datasets",
-    "original_repository_id": 26898879,
-    "original_repository_sha": "10149a83dbb83b6f5e353f6f6bd0210a9b38fed2",
+    "last_updated": "2026-08-27T11:59:32.980Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 26898879,
+      "language": null,
+      "last_commit": "2026-08-26T21:15:40Z",
+      "owner": "awesomedata",
+      "repo": "awesome-public-datasets",
+      "stars": 78670
+    },
+    "original_repository_sha": "fc0e7ac17eb7a8d5188463b7853bef285d0207fa",
     "enhanced_repository": "enhansome/enhansome-public-datasets",
     "enhanced_repository_description": null,
     "title": "Awesome Public Datasets with stars"
