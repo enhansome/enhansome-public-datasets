@@ -1,15 +1,25 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-29T01:47:38.941Z",
+    "last_updated": "2026-08-29T04:10:03.928Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A topic-centric list of HQ open datasets.",
+      "homepage": "https://awesomedataworld.slack.com",
       "id": 26898879,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-28T16:22:22Z",
+      "open_issues": 159,
       "owner": "awesomedata",
       "repo": "awesome-public-datasets",
-      "stars": 78693
+      "stars": 78694,
+      "topics": [
+        "aaron-swartz",
+        "awesome-public-datasets",
+        "datasets",
+        "opendata"
+      ]
     },
     "original_repository_sha": "94e9006248bf889374262b3071bf69e813b0f0d9",
     "enhanced_repository": "enhansome/enhansome-public-datasets",
