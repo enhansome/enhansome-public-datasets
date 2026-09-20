@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-19T20:50:03.467Z",
+    "last_updated": "2026-09-20T20:55:23.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A topic-centric list of HQ open datasets.",
@@ -13,7 +13,7 @@
       "open_issues": 160,
       "owner": "awesomedata",
       "repo": "awesome-public-datasets",
-      "stars": 79043,
+      "stars": 79058,
       "topics": [
         "aaron-swartz",
         "awesome-public-datasets",
