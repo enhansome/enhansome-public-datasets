@@ -2,7 +2,7 @@
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
 :alt: Awesome
-:target: <https://github.com/sindresorhus/awesome> ⭐ 530,951 | 🐛 103 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 531,735 | 🐛 103 | 📅 2026-09-02
 
 This is a list of `topic-centric public data sources <https://github.com/awesomedata/awesome-public-datasets>`\_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
@@ -183,6 +183,8 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `LibertyCES Industrial Chemical Equipment Data - Real, open industrial chemical equipment [...] <https://data.libertyces.com>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/libertyces-industrial-chemical-equipment-data.yml>`\_]
 
+* |OK\_ICON| `MoleculeFinder: the molecules in everyday foods, drinks and products - 915 molecules from [...] <https://doi.org/10.5281/zenodo.23605767>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/moleculefinder-molecules-in-everyday-products.yml>`\_]
+
 * |OK\_ICON| `State of Peptides 2026 - Open reference dataset of 156 peptide and peptide-adjacent [...] <https://peptahub.com/state-of-peptides-2026>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/state-of-peptides-2026.yml>`\_]
 
 ## Climate+Weather
@@ -275,7 +277,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Stanford Large Network Dataset Collection <https://snap.stanford.edu/data/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Large-Network-Dataset-Collection.yml>`\_]
 
-* |FIXME\_ICON| `The Koblenz Network Collection <http://konect.cc/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Koblenz-Network-Collection.yml>`\_]
+* |OK\_ICON| `The Koblenz Network Collection <http://konect.cc/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Koblenz-Network-Collection.yml>`\_]
 
 * |OK\_ICON| `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Laboratory-for-Web-Algorithmics-UNIMI.yml>`\_]
 
@@ -303,7 +305,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CAIDA-Internet-Datasets.yml>`\_]
 
-* |OK\_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`\_]
+* |FIXME\_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`\_]
 
 * |OK\_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`\_]
 
@@ -451,7 +453,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Asian Productivity Organization (APO) - The AEPM provides a graphic dashboard view of [...] <https://www.apo-tokyo.org/wedo/productivity-measurement/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/APO.yml>`\_]
 
-* |OK\_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`\_]
+* |FIXME\_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`\_]
 
 * |OK\_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/American-Economic-Association-AEA.yml>`\_]
 
@@ -529,7 +531,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Joint-External-Debt-Data-Hub.yml>`\_]
 
-* |FIXME\_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`\_]
+* |OK\_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`\_]
 
 * |OK\_ICON| `LandedSpec Construction-Import Decision Registers - Three open CSV registers for [...] <https://landedspec.com/methodology/#research-assets>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/LandedSpec-Construction-Import-Decision-Registers.yml>`\_]
 
@@ -699,6 +701,8 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 ## Education
 
+* |OK\_ICON| `AI Certifications Dataset - JSON records of AI certifications from technology vendors and [...] <https://github.com/jakeboland/ai-certifications-dataset>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/AI-Certifications-Dataset.yml>`\_]
+
 * |OK\_ICON| `BackPR Open Data for US Youth Programs - Rules for childcare, camps and after-school programs [...] <https://doi.org/10.5281/zenodo.23577823>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/BackPR-US-Youth-Program-Data.yml>`\_]
 
 * |OK\_ICON| `BrightKey University & International School Ratings - An open, independent dataset rating [...] <https://brightkey.co/en/rankings/dataset>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/BrightKey-University-International-School-Ratings.yml>`\_]
@@ -719,7 +723,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Knowledge Navigator STEM Prerequisite Graph - An open curriculum graph of 1,432 chapters and [...] <https://github.com/MohamedMuneerM/knowledge-navigator/tree/main/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Knowledge-Navigator-STEM-Prerequisite-Graph.yml>`\_]
 
-* |OK\_ICON| `Make Data Count data citations - links between research articles and the datasets they cite [...] <https://makedatacount.org/data-citation/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Make-Data-Count.yml>`\_]
+* |FIXME\_ICON| `Make Data Count data citations - links between research articles and the datasets they cite [...] <https://makedatacount.org/data-citation/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Make-Data-Count.yml>`\_]
 
 * |OK\_ICON| `MeloLingua CEFR-Graded Multilingual Stories - 118 A1-B2 graded reading stories in German, [...] <https://github.com/MeloLingua/melolingua-language-stories-dataset>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/MeloLingua-CEFR-Graded-Multilingual-Stories.yml>`\_]
 
@@ -1027,7 +1031,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |FIXME\_ICON| `Antwerp, Belgium <https://www.antwerpen.be/open-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Antwerp-Belgium.yml>`\_]
 
-* |OK\_ICON| `Argentina (non official) <http://datos.gob.ar>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`\_]
+* |FIXME\_ICON| `Argentina (non official) <http://datos.gob.ar>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`\_]
 
 * |OK\_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`\_]
 
@@ -1221,7 +1225,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `NYC betanyc <http://betanyc.us/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/NYC-betanyc.yml>`\_]
 
-* |FIXME\_ICON| `Netherlands <https://data.overheid.nl/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Netherlands.yml>`\_]
+* |OK\_ICON| `Netherlands <https://data.overheid.nl/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Netherlands.yml>`\_]
 
 * |OK\_ICON| `New York Department of Sanitation Monthly Tonnage - DSNY Monthly Tonnage Data provides [...] <https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/New-York-Department-of-Sanitation.yml>`\_]
 
@@ -1283,7 +1287,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Rio de Janeiro, Brazil <http://www.data.rio/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Rio-de-Janeiro-Brazil.yml>`\_]
 
-* |OK\_ICON| `Romania <https://data.gov.ro/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Romania.yml>`\_]
+* |FIXME\_ICON| `Romania <https://data.gov.ro/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Romania.yml>`\_]
 
 * |FIXME\_ICON| `Russia Business Inspections (ERKNM) - Aggregated statistics of state control and supervision [...] <https://kontragentpro.ru/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia-Business-Inspections-ERKNM.yml>`\_]
 
@@ -1553,7 +1557,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`\_]
 
-* |OK\_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`\_]
+* |FIXME\_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`\_]
 
 * |OK\_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`\_]
 
@@ -1579,7 +1583,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`\_]
 
-* |OK\_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`\_]
+* |FIXME\_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`\_]
 
 * |OK\_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`\_]
 
@@ -1599,7 +1603,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <https://www.openu.ac.il/home/hassner/data/violentflows/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`\_]
 
-* |FIXME\_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`\_]
+* |OK\_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`\_]
 
 * |OK\_ICON| `WhatFontIs-Bench - Synthetic benchmark for font family identification. Contains 11,995 JPG [...] <https://github.com/whatfontis/WhatFontIs-Bench>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/WhatFontIs-Bench.yml>`\_]
 
@@ -1699,6 +1703,8 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Cooper-Hewitt's Collection Database <https://github.com/cooperhewitt/collection>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Cooper-Hewitt-Collection-Database.yml>`\_]
 
+* |OK\_ICON| `CultureTechLens Black Cultural Knowledge Graph - An open, evidence-graded knowledge graph of [...] <https://doi.org/10.5281/zenodo.23403147>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/CultureTechLens-Black-Cultural-Knowledge-Graph.yml>`\_]
+
 * |OK\_ICON| `Metropolitan Museum of Art Collection API <https://metmuseum.github.io/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Metropolitan-Museum-of-Art-Collection-API.yml>`\_]
 
 * |OK\_ICON| `Minneapolis Institute of Arts metadata <https://github.com/artsmia/collection>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Minneapolis-Institute-of-Arts-metadata.yml>`\_]
@@ -1759,7 +1765,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`\_]
 
-* |OK\_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`\_]
+* |FIXME\_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`\_]
 
 * |OK\_ICON| `Open Multilingual Wordnet <https://github.com/omwn/omw-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`\_]
 
@@ -1852,6 +1858,8 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 * |OK\_ICON| `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NSSDC-NASA-data-of-550-space-spacecraft.yml>`\_]
 
 * |OK\_ICON| `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Sloan-Digital-Sky-Survey-SDSS.yml>`\_]
+
+* |OK\_ICON| `Solar and Lunar Eclipses 1950-2050 - 453 computed solar and lunar eclipses whose greatest- [...] <https://huggingface.co/datasets/eatfreshapple/solar-lunar-eclipses-1950-2050>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Solar-and-Lunar-Eclipses-1950-2050.yml>`\_]
 
 ## ProstateCancer
 
@@ -1995,7 +2003,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`\_]
 
-* |FIXME\_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`\_]
+* |OK\_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`\_]
 
 * |OK\_ICON| `High-Resolution Contact Networks from Wearable Sensors <https://sociopatterns.org/datasets.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`\_]
 
@@ -2038,6 +2046,8 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 ## SocialSciences
 
 * |OK\_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/ACLED.yml>`\_]
+
+* |OK\_ICON| `Agency AI Policies (marketing, PR and creative agencies) - One row per AI policy that a [...] <https://github.com/bigpipe-agency/agency-ai-terms/tree/main/research>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Agency-AI-Policies.yml>`\_]
 
 * |OK\_ICON| `Authoritarian Ruling Elites Database - The Authoritarian Ruling Elites Database (ARED) is a [...] <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QZ9BSA>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Authoritarian-Ruling-Elites.yml>`\_]
 
@@ -2178,6 +2188,8 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 * |OK\_ICON| `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/FLOSSmole-data-about-free-libre-and-open-source-software-development.yml>`\_]
 
 * |OK\_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/Libraries.io-Open-Source-Repository-and-Dependency-Metadata.yml>`\_]
+
+* |OK\_ICON| `Lowdown MCP Registry daily observations (fixed sample of 10,000 remote servers, from [...] <https://github.com/PetShopBros/lowdown-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/Lowdown-MCP-Registry-daily-observations.yml>`\_]
 
 * |OK\_ICON| `MCP Registry servers - One row per server in the official Model Context Protocol (MCP) [...] <https://huggingface.co/datasets/tanod/mcp-registry-servers>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/MCP-Registry-servers.yml>`\_]
 
@@ -2409,4 +2421,4 @@ Special thanks to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
