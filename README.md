@@ -2,7 +2,7 @@
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
 :alt: Awesome
-:target: <https://github.com/sindresorhus/awesome> ⭐ 532,473 | 🐛 103 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 533,149 | 🐛 103 | 📅 2026-09-02
 
 This is a list of `topic-centric public data sources <https://github.com/awesomedata/awesome-public-datasets>`\_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
@@ -265,7 +265,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Network-Repository-with-Interactive-Exploratory-Analysis-Tools.yml>`\_]
 
-* |FIXME\_ICON| `Protein-protein interaction network (At Wayback) - The original dataset is still available on [...] <https://web.archive.org/web/20240412112159/http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Protein.yml>`\_]
+* |OK\_ICON| `Protein-protein interaction network (At Wayback) - The original dataset is still available on [...] <https://web.archive.org/web/20240412112159/http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Protein.yml>`\_]
 
 * |OK\_ICON| `PyPI and Maven Dependency Network <https://ogirardot.wordpress.com/2013/01/31/sharing-pypimaven-dependency-data/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/PyPI-and-Maven-Dependency-Network.yml>`\_]
 
@@ -531,7 +531,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Joint-External-Debt-Data-Hub.yml>`\_]
 
-* |OK\_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`\_]
+* |FIXME\_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`\_]
 
 * |OK\_ICON| `LandedSpec Construction-Import Decision Registers - Three open CSV registers for [...] <https://landedspec.com/methodology/#research-assets>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/LandedSpec-Construction-Import-Decision-Registers.yml>`\_]
 
@@ -1035,7 +1035,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |FIXME\_ICON| `Argentina (non official) <http://datos.gob.ar>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`\_]
 
-* |OK\_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`\_]
+* |FIXME\_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`\_]
 
 * |OK\_ICON| `AssessorSearch 2026 Property Tax Rates by State, County, and City - Public AssessorSearch [...] <https://assessorsearch.com/data/property-tax-rates-by-county>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/AssessorSearch-Property-Tax-Rates.yml>`\_]
 
@@ -1113,7 +1113,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |FIXME\_ICON| `England LGInform <https://lginform.local.gov.uk/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`\_]
 
-* |FIXME\_ICON| `EuroStat <http://ec.europa.eu/eurostat/data/database>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/EuroStat.yml>`\_]
+* |OK\_ICON| `EuroStat <http://ec.europa.eu/eurostat/data/database>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/EuroStat.yml>`\_]
 
 * |OK\_ICON| `EveryPolitician - Ongoing project collating and sharing data on every politician. <http://everypolitician.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/EveryPolitician.yml>`\_]
 
@@ -1459,7 +1459,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |FIXME\_ICON| `Dietly Food & Nutrition Database - Open nutrition catalog of 4.2M+ foods with calories, [...] <https://www.getdietly.com/api>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Dietly-Food-Nutrition-Database.yml>`\_]
 
-* |FIXME\_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`\_]
+* |OK\_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`\_]
 
 * |OK\_ICON| `ENCLAI Reported Infectious-Disease Case Counts 2018-2024 - Openly downloadable panel of [...] <https://doi.org/10.5281/zenodo.21855170>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/ENCLAI-Disease-Surveillance.yml>`\_]
 
@@ -1547,7 +1547,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Airborne Object Detection and Tracking - The Airborne Object Tracking (AOT) dataset is a [...] <https://www.aicrowd.com/challenges/airborne-object-tracking-challenge>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Airborne-Object-Detection-and-Tracking.yml>`\_]
 
-* |OK\_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Animals-with-attributes.yml>`\_]
+* |FIXME\_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Animals-with-attributes.yml>`\_]
 
 * |OK\_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - Contains 10K stereo pair [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`\_]
 
@@ -1605,7 +1605,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <https://www.openu.ac.il/home/hassner/data/violentflows/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`\_]
 
-* |OK\_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`\_]
+* |FIXME\_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`\_]
 
 * |OK\_ICON| `WhatFontIs-Bench - Synthetic benchmark for font family identification. Contains 11,995 JPG [...] <https://github.com/whatfontis/WhatFontIs-Bench>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/WhatFontIs-Bench.yml>`\_]
 
@@ -1663,7 +1663,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `LLVIP - This dataset contains 30976 images, or 15488 pairs, most of which were taken at very [...] <https://bupt-ai-cz.github.io/LLVIP/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/LLVIP.yml>`\_]
 
-* |OK\_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`\_]
+* |FIXME\_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`\_]
 
 * |OK\_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Million-Song-Dataset.yml>`\_]
 
@@ -1675,7 +1675,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `RDataMining - "R and Data Mining" ebook data <https://www.rdatamining.com/datasets>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/RDataMining.yml>`\_]
 
-* |OK\_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Registered-Meteorites-on-Earth.yml>`\_]
+* |FIXME\_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Registered-Meteorites-on-Earth.yml>`\_]
 
 * |OK\_ICON| `Restaurants Health Score Data in San Francisco <https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Restaurants-Health-Score-Data-in-San-Francisco.yml>`\_]
 
@@ -1767,7 +1767,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`\_]
 
-* |FIXME\_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`\_]
+* |OK\_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`\_]
 
 * |OK\_ICON| `Open Multilingual Wordnet <https://github.com/omwn/omw-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`\_]
 
@@ -1937,7 +1937,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |FIXME\_ICON| `StatSci.org (Archived at Wayback) - A list of links. <https://web.archive.org/web/20170704235833/http://www.statsci.org/datasets.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`\_]
 
-* |OK\_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`\_]
+* |FIXME\_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`\_]
 
 * |FIXME\_ICON| `UFO Reports <https://nuforc.org/databank/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/UFO-Reports.yml>`\_]
 
@@ -2005,7 +2005,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`\_]
 
-* |OK\_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`\_]
+* |FIXME\_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`\_]
 
 * |OK\_ICON| `High-Resolution Contact Networks from Wearable Sensors <https://sociopatterns.org/datasets.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`\_]
 
@@ -2033,7 +2033,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Data-for-Sentiment-Analysis.yml>`\_]
 
-* |FIXME\_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`\_]
+* |OK\_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`\_]
 
 * |OK\_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/UNIMILAW-Social-Network-Datasets.yml>`\_]
 
@@ -2427,4 +2427,4 @@ Special thanks to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
