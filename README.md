@@ -2,7 +2,7 @@
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
 :alt: Awesome
-:target: <https://github.com/sindresorhus/awesome> ⭐ 534,291 | 🐛 103 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 534,861 | 🐛 103 | 📅 2026-09-02
 
 This is a list of `topic-centric public data sources <https://github.com/awesomedata/awesome-public-datasets>`\_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
@@ -417,6 +417,8 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Earth Models <https://www.earthmodels.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Earth-Models.yml>`\_]
 
+* |OK\_ICON| `Geoscience Data Portals - A catalogue of government geoscience data portals used in mineral [...] <https://github.com/XploraHub/geoscience-data-portals>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Geoscience-Data-Portals.yml>`\_]
+
 * |OK\_ICON| `Global Wind Atlas - The Global Wind Atlas is a free, web-based application developed to help [...] <https://globalwindatlas.info/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Global-Wind-Atlas.yml>`\_]
 
 * |OK\_ICON| `HotSpringsFind - US hot springs public index (~400 researched locations) - Maintained public [...] <https://hotspringsfind.com/hot-springs-statistics>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/HotSpringsFind-US-Hot-Springs-Index.yml>`\_]
@@ -535,7 +537,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Joint-External-Debt-Data-Hub.yml>`\_]
 
-* |OK\_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`\_]
+* |FIXME\_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`\_]
 
 * |OK\_ICON| `LandedSpec Construction-Import Decision Registers - Three open CSV registers for [...] <https://landedspec.com/methodology/#research-assets>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/LandedSpec-Construction-Import-Decision-Registers.yml>`\_]
 
@@ -631,8 +633,6 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Tyllus U.S. Import Evidence Change Radar - A maintained, source-linked collection of U.S. [...] <https://github.com/Finbie-Side-Projects/tyllus-import-evidence-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Tyllus-US-Import-Evidence-Change-Radar.yml>`\_]
 
-* |OK\_ICON| `UK Home Improvement Costs - Regional guide prices for 56 UK home-improvement jobs, from [...] <https://costwiseuk.co.uk/cost-report/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UK-Home-Improvement-Costs.yml>`\_]
-
 * |OK\_ICON| `UK Supermarket Prices: Daily 212-Item Basket - One row per product per retailer per day for a [...] <https://www.kaggle.com/datasets/russellyapp/uk-supermarket-prices-daily-212-item-basket>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UK-Supermarket-Prices-Daily-Basket.yml>`\_]
 
 * |OK\_ICON| `UN Commodity Trade Statistics - The United Nations Comtrade database aggregates detailed [...] <https://comtradeplus.un.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`\_]
@@ -644,6 +644,8 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 * |OK\_ICON| `US Employer Cost Dataset 2026-2027 (Hiring Cost Atlas) - Every official input behind the cost [...] <https://github.com/onyx-digital-holdings/us-employer-cost-dataset>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Employer-Cost-Dataset-2026-2027.yml>`\_]
 
 * |OK\_ICON| `US Enforcement Actions Against Crypto Trading-Signal Fraud - A structured, primary-source- [...] <https://realcryptosignals.com/research/enforcement-actions/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Enforcement-Actions-Crypto-Signal-Fraud.yml>`\_]
+
+* |OK\_ICON| `US Fair Market Rents FY2027 by County (HUD, verified) - One CSV row per US county (3,268 rows [...] <https://github.com/rentlimit/us-fair-market-rents>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Fair-Market-Rents-FY2027-by-County.yml>`\_]
 
 * |OK\_ICON| `US Franchise FDD Disclosure Statistics - Per-brand headline facts from 450+ officially [...] <https://franchisefactsreport.com/data/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Franchise-FDD-Disclosures.yml>`\_]
 
@@ -847,55 +849,15 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 ## Finance
 
-* |OK\_ICON| `AgentBroker Index - AI-Agent Access to Brokers, Banks and Crypto Exchanges - Sourced records [...] <https://github.com/oteroag01/agentbroker-index-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/AgentBroker-Index-AI-Agent-Broker-Access.yml>`\_]
-
 * |OK\_ICON| `Central Bank Exchange Rates (121 central banks and tax authorities) - Official exchange rates [...] <https://github.com/AllRates-Today/central-bank-exchange-rates>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/AllRatesToday-Central-Bank-Exchange-Rates.yml>`\_]
-
-* |OK\_ICON| `SEC Form 4 Insider Trading (AlphaAI) - US corporate insider trades parsed from SEC EDGAR Form [...] <https://huggingface.co/datasets/mikhailmakeev/sec-form4-insider-trading>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/AlphaAI-SEC-Form4-Insider-Trading.yml>`\_]
-
-* |FIXME\_ICON| `AptToSell South Korea Housing Subscription Reference Data (2026) - An open South Korea [...] <https://zenodo.org/records/22842058>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/AptToSell-Korea-Housing-Subscription-2026.yml>`\_]
 
 * |OK\_ICON| `BIS Statistics - BIS statistics, compiled in cooperation with central banks and other [...] <https://data.bis.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/BIS Statistics.yml>`\_]
 
-* |OK\_ICON| `ByKaranteli Crypto Derivatives Datasets - Funding, Open Interest, Liquidations, Options, ETF Flows and [...] <https://github.com/bykarantelicom/crypto-datasets>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/ByKaranteli-Crypto-Derivatives.yml>`\_]
-
-* |OK\_ICON| `CBOE Futures Exchange <https://www.cboe.com/data/market-statistics>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/CBOE-Futures-Exchange.yml>`\_]
-
-* |OK\_ICON| `Instant Crypto Exchange Delivered Amounts - Website Checks - Raw CSV rows of what instant [...] <https://github.com/cambio-one/exchange-fee-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Cambio-Instant-Exchange-Delivered-Amounts.yml>`\_]
-
 * |OK\_ICON| `Central Bank Exchange Rates - Daily official rates from 121 central banks and tax authorities [...] <https://github.com/AllRates-Today/central-bank-exchange-rates>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Central-Bank-Exchange-Rates.yml>`\_]
-
-* |OK\_ICON| `ChainCosts Exchange Withdrawal Fees - Cited snapshots of cryptocurrency centralized-exchange [...] <https://github.com/chaincosts/exchange-fees>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/ChainCosts-Exchange-Fees.yml>`\_]
-
-* |OK\_ICON| `Card-Network Chargeback Reason Codes - Open reference dataset of all 64 active chargeback [...] <https://github.com/small-business-software-maker/chargeback-reason-codes>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Chargeback-Reason-Codes.yml>`\_]
-
-* |OK\_ICON| `ClearTrace DEX Execution Quality - Longitudinal dataset of DEX aggregator execution quality [...] <https://github.com/RantumBits/cleartrace-dex-execution-quality>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/ClearTrace-DEX-Execution-Quality.yml>`\_]
-
-* |OK\_ICON| `Dealaka US Sign-Up Bonuses - Every US bank, credit card, brokerage, app, travel-loyalty and [...] <https://dealaka.com/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Dealaka-Sign-Up-Bonuses.yml>`\_]
-
-* |OK\_ICON| `Dividend Data Toolkit - SCHD Payments and Holdings - Dated SCHD payment and holdings [...] <https://github.com/holaclea/dividend-data-toolkit>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Dividend-Data-Toolkit.yml>`\_]
 
 * |OK\_ICON| `Complete FAANG Stock data - This data set contains all the stock data of FAANG companies from [...] <https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/FAANG-StockData.yml>`\_]
 
-* |OK\_ICON| `Futures Clock Exchange Trading Hours & Holiday Calendars - Regular trading sessions, time [...] <https://futuresclock.com/data/trading-hours.json>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Futures-Clock-Trading-Hours.yml>`\_]
-
-* |OK\_ICON| `Global Solo Banking Access Index - Evidence-cited matrix of which US business-banking [...] <https://www.globalsolo.global/data/banking-access-index>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Global-Solo-Banking-Access-Index.yml>`\_]
-
 * |OK\_ICON| `Google Finance <https://www.google.com/finance>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Finance.yml>`\_]
-
-* |OK\_ICON| `HEY Research Lab - Robinhood Chain Builder Records - Daily snapshots of the public builder [...] <https://heyresearch.xyz/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/HEY-Research-Lab-Robinhood-Chain-Builders.yml>`\_]
-
-* |OK\_ICON| `Institutional AAOIFI Halal Cryptocurrency Dataset - Institutional open-access dataset of 820+ [...] <https://github.com/tffsgsff-ops/halal-crypto-dataset>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Halal-Cryptocurrency-AAOIFI-Dataset.yml>`\_]
-
-* |OK\_ICON| `Helium - Real-time news articles with political bias scoring (3.2M+ articles, 5,000+ [...] <https://heliumtrades.com/mcp-page/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Helium.yml>`\_]
-
-* |OK\_ICON| `HostDeFi Weekly Token Safety Snapshot - Weekly CC BY 4.0 CSV snapshot of deterministic A+–F [...] <https://hostdefi.com/data/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/HostDeFi-Safety-Snapshot.yml>`\_]
-
-* |OK\_ICON| `M&A Multiples Index (SMB & Lower-Middle-Market) - Open dataset of median EV/EBITDA and [...] <https://github.com/nickcals/multiples>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/MA-Multiples-Index.yml>`\_]
-
-* |OK\_ICON| `The Most Active Venture Investors of 2026 - The 250 most active venture investors of 2026 so [...] <https://indexed.vc/reports/most-active-investors-2026>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Most-Active-Investors-2026.yml>`\_]
-
-* |OK\_ICON| `NASDAQ <https://data.nasdaq.com/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/NASDAQ.yml>`\_]
 
 * |OK\_ICON| `NYSE Market Data <ftp://ftp.nyxdata.com/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/NYSE-Market-Data.yml>`\_]
 
@@ -903,59 +865,21 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `OpenCard DB - Community-maintained open dataset of credit card product metadata covering 189 [...] <https://github.com/thedavidweng/opencard-db>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OpenCard-DB.yml>`\_]
 
-* |OK\_ICON| `OpenChainBench - Live, reproducible benchmarks for crypto infrastructure. Continuously [...] <https://openchainbench.com>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OpenChainBench.yml>`\_]
-
-* |OK\_ICON| `US Online Card Processing Fees (Payney, September 2026) - Published online card-acceptance [...] <https://payney.com/reports/online-card-fees-us-2026-09/#method>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Payney-US-Online-Card-Fees-2026.yml>`\_]
-
 * |OK\_ICON| `Peru SMV Financial Statements - Normalized financial statements of 682 companies supervised [...] <https://github.com/AtlasLedger/smv-eeff>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Peru-SMV-Financial-Statements.yml>`\_]
 
-* |OK\_ICON| `PredScope Prediction Markets API - Free public API providing 600+ live prediction market [...] <https://predscope.com/api/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/PredScope-Prediction-Markets.yml>`\_]
-
-* |OK\_ICON| `Prop-Firm Rules Census - Sourced, dated registry of published prop-trading-firm evaluation- [...] <https://propsurvival.com/research/prop-firm-rules-census-2026>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/PropSurvival-Prop-Firm-Rules-Census.yml>`\_]
+* |OK\_ICON| `Polisa - Insurance market data for 18 Central and Eastern European markets - Premium by line [...] <https://polisapro.com/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Polisa-CEE-Insurance-Market-Data.yml>`\_]
 
 * |OK\_ICON| `Quandl <https://www.quandl.com/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Quandl.yml>`\_]
 
-* |FIXME\_ICON| `Resimanor South Korea Stress DSR Mortgage Limit Reference Data (2026) - An open South Korea [...] <https://zenodo.org/records/22840870>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Resimanor-Korea-Stress-DSR-2026.yml>`\_]
-
-* |OK\_ICON| `Major Customers of US Public Companies from SEC 10-K Filings (Ryufin) - Every major customer [...] <https://github.com/GerritPro/edgar-supply-chain>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Ryufin-SEC-10K-Major-Customers.yml>`\_]
-
-* |OK\_ICON| `SBA 7(a) Loan Charge-Off Rates 1992-2026 - Charge-off rates computed from the complete public [...] <https://github.com/Chadhauser/sba-7a-chargeoff-rates>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SBA-7a-Charge-Off-Rates.yml>`\_]
-
 * |FIXME\_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`\_]
-
-* |OK\_ICON| `S&P 500 Drawdowns Since 1999 - Worst fall from a running high, with peak, trough and recovery [...] <https://github.com/coopermb-glitch/sp500-drawdowns-since-1999>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SP500-Drawdowns-Since-1999.yml>`\_]
-
-* |OK\_ICON| `SatoshiMacro Bitcoin Cycle Model - Daily Bitcoin and Ethereum market-cycle scores (0-100) [...] <https://huggingface.co/datasets/satoshimacro/bitcoin-cycle-model>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SatoshiMacro-Bitcoin-Cycle-Model.yml>`\_]
 
 * |FIXME\_ICON| `St Louis Federal <https://fred.stlouisfed.org/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`\_]
 
-* |OK\_ICON| `StateCalc Rent-to-Price Ratio by US State (2026) - A 50-state open dataset computing the [...] <https://statecalc.com/data/rent-to-price-ratio-by-state/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/StateCalc-Rent-to-Price-Ratio-by-State-2026.yml>`\_]
-
-* |OK\_ICON| `Sweepbase Crypto Cards Dataset - One row per cryptocurrency debit or credit card that can be [...] <https://doi.org/10.5281/zenodo.20449847>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Sweepbase-Crypto-Cards.yml>`\_]
-
-* |OK\_ICON| `Most-Funded Startups of 2026 (July Snapshot) - A July 2026 snapshot of the 249 private [...] <https://indexed.vc/reports/top-funded-startups-2026>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Top-Funded-Startups-2026.yml>`\_]
-
 * |OK\_ICON| `UK Payment Practices 2017-2026 - Aggregate figures from 114,758 statutory payment practices [...] <https://github.com/Chadhauser/uk-payment-practices>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/UK-Payment-Practices.yml>`\_]
-
-* |OK\_ICON| `US Executive-Branch Stock Trade Disclosures (OGE Form 278) - Stock and asset transactions [...] <https://github.com/disclosedcapitol/executive-branch-trades>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-Executive-Branch-Stock-Trade-Disclosures.yml>`\_]
-
-* |OK\_ICON| `US Options Market Structure Daily - Max Pain, Gamma Exposure, Call Wall and Put Floor for 12 US Stocks [...] <https://github.com/myjr0629-hue/options-market-structure-daily>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-Options-Market-Structure-Daily.yml>`\_]
 
 * |OK\_ICON| `US State Income Tax 2026 (all 51 jurisdictions) - State individual income tax rules for tax [...] <https://github.com/mixseomin/us-state-income-tax>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-State-Income-Tax-2026.yml>`\_]
 
-* |OK\_ICON| `US State Tax Lien and Tax Deed Dataset (2026) - A sourced, machine-readable dataset [...] <https://taxliensimple.com/dataset>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-State-Tax-Lien-Deed.yml>`\_]
-
-* |OK\_ICON| `VASP Tracker - Crypto Licensing Deadlines by Jurisdiction - When virtual-asset / crypto-asset [...] <https://doi.org/10.5281/zenodo.23575353>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/VASP-Tracker-Crypto-Licensing-Deadlines.yml>`\_]
-
-* |OK\_ICON| `VC Deal Flow Signal (GitHub-Derived Early-Stage Venture Signals) - An open dataset of GitHub- [...] <https://huggingface.co/datasets/the-data-nerd/vc-deal-flow-signal>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/VC-Deal-Flow-Signal.yml>`\_]
-
-* |OK\_ICON| `Webb Database - Aggregates and structures public financial data from HKEX, the SFC, the Hong [...] <https://webb-database.com>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Webb-Database.yml>`\_]
-
-* |OK\_ICON| `Wiseek Filing Impact - Monthly statistics on how SEC filings move US stocks. Importance [...] <https://zenodo.org/records/22047734>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Wiseek Filing Impact.yml>`\_]
-
-* |OK\_ICON| `Zyphe AML Enforcement Tracker - Structured record of AML/BSA fines, sanctions actions, GDPR [...] <https://www.zyphe.com/resources/aml-enforcement-tracker>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Zyphe-AML-Enforcement-Tracker.yml>`\_]
-
-* |OK\_ICON| `Korean Equity Daily Prices and DART Filing Impact - Every listed KOSPI, KOSDAQ and KONEX [...] <https://huggingface.co/datasets/aikstockdata/korea-equity-daily>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/aikstockdata-Korea-Equity-Daily.yml>`\_]
+* |OK\_ICON| `Webb Database - Aggregates and structures public financial data from HKEX, the SFC, the Hong [...] <https://webb-database.com/dbpub/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Webb-Database.yml>`\_]
 
 ## GIS
 
@@ -1049,9 +973,9 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |FIXME\_ICON| `Antwerp, Belgium <https://www.antwerpen.be/open-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Antwerp-Belgium.yml>`\_]
 
-* |FIXME\_ICON| `Argentina (non official) <http://datos.gob.ar>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`\_]
+* |OK\_ICON| `Argentina (non official) <http://datos.gob.ar>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`\_]
 
-* |FIXME\_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`\_]
+* |OK\_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`\_]
 
 * |OK\_ICON| `AssessorSearch 2026 Property Tax Rates by State, County, and City - Public AssessorSearch [...] <https://assessorsearch.com/data/property-tax-rates-by-county>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/AssessorSearch-Property-Tax-Rates.yml>`\_]
 
@@ -1075,7 +999,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Brazil <https://dados.gov.br/dados/conjuntos-dados>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Brazil.yml>`\_]
 
-* |FIXME\_ICON| `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Buenos-Aires-Argentina.yml>`\_]
+* |OK\_ICON| `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Buenos-Aires-Argentina.yml>`\_]
 
 * |OK\_ICON| `BuildData - Canadian Construction and Development Data API - REST API providing normalized [...] <https://builddata.ca>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/BuildData-Canadian-Construction-Data-API.yml>`\_]
 
@@ -1156,6 +1080,8 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 * |OK\_ICON| `Ghent, Belgium <https://data.stad.gent/explore>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Ghent-Belgium.yml>`\_]
 
 * |OK\_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Glasgow-Scotland-UK.yml>`\_]
+
+* |OK\_ICON| `Global Law - The law of 208 jurisdictions (714 corpora) as git histories. Each act is a [...] <https://github.com/lexifina/global-law>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Global-Law.yml>`\_]
 
 * |OK\_ICON| `GlobeNomad Visa Dataset - long-stay and digital-nomad visa programmes, sourced and dated - 53 [...] <https://github.com/MSeutin/digital-nomad-visa-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/GlobeNomad-Visa-Dataset.yml>`\_]
 
@@ -2041,7 +1967,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Network-Twitter-Data.yml>`\_]
 
-* |OK\_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`\_]
+* |FIXME\_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`\_]
 
 * |OK\_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Skytrax-Air-Travel-Reviews-Dataset.yml>`\_]
 
@@ -2057,7 +1983,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Data-for-Sentiment-Analysis.yml>`\_]
 
-* |OK\_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`\_]
+* |FIXME\_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`\_]
 
 * |OK\_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/UNIMILAW-Social-Network-Datasets.yml>`\_]
 
