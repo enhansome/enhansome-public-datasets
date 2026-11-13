@@ -2,7 +2,7 @@
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
 :alt: Awesome
-:target: <https://github.com/sindresorhus/awesome> ⭐ 535,931 | 🐛 103 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 536,447 | 🐛 104 | 📅 2026-09-02
 
 This is a list of `topic-centric public data sources <https://github.com/awesomedata/awesome-public-datasets>`\_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
@@ -973,9 +973,9 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |FIXME\_ICON| `Antwerp, Belgium <https://www.antwerpen.be/open-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Antwerp-Belgium.yml>`\_]
 
-* |FIXME\_ICON| `Argentina (non official) <http://datos.gob.ar>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`\_]
+* |OK\_ICON| `Argentina (non official) <http://datos.gob.ar>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`\_]
 
-* |FIXME\_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`\_]
+* |OK\_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`\_]
 
 * |OK\_ICON| `AssessorSearch 2026 Property Tax Rates by State, County, and City - Public AssessorSearch [...] <https://assessorsearch.com/data/property-tax-rates-by-county>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/AssessorSearch-Property-Tax-Rates.yml>`\_]
 
@@ -1155,7 +1155,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Mississauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Missisauga-ON-Canada.yml>`\_]
 
-* |FIXME\_ICON| `Moldova <http://data.gov.md/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moldova.yml>`\_]
+* |OK\_ICON| `Moldova <http://data.gov.md/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moldova.yml>`\_]
 
 * |OK\_ICON| `Moncton, NB, Canada <http://open.moncton.ca/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moncton-NB-Canada.yml>`\_]
 
@@ -1237,11 +1237,11 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Romania <https://data.gov.ro/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Romania.yml>`\_]
 
-* |FIXME\_ICON| `Russia Business Inspections (ERKNM) - Aggregated statistics of state control and supervision [...] <https://kontragentpro.ru/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia-Business-Inspections-ERKNM.yml>`\_]
+* |OK\_ICON| `Russia Business Inspections (ERKNM) - Aggregated statistics of state control and supervision [...] <https://kontragentpro.ru/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia-Business-Inspections-ERKNM.yml>`\_]
 
 * |OK\_ICON| `Open Data Portal of the Russian Federation <https://data.gov.ru>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia.yml>`\_]
 
-* |FIXME\_ICON| `Russian Business Inspections Registry (ERKNM) - Aggregated statistics from the Unified [...] <https://kontragentpro.ru/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russian-Business-Inspections-Registry.yml>`\_]
+* |OK\_ICON| `Russian Business Inspections Registry (ERKNM) - Aggregated statistics from the Unified [...] <https://kontragentpro.ru/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russian-Business-Inspections-Registry.yml>`\_]
 
 * |OK\_ICON| `San Diego, CA <https://data.sandiego.gov>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San Diego, CA.yml>`\_]
 
@@ -1933,7 +1933,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 ## SocialNetworks
 
-* |FIXME\_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`\_]
+* |OK\_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`\_]
 
 * |OK\_ICON| `72 hours #gamergate Twitter Scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/72-hours-gamergate-Twitter-Scrape.yml>`\_]
 
@@ -2389,4 +2389,4 @@ Special thanks to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
