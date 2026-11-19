@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-11-18T01:01:41.762Z",
+    "last_updated": "2026-11-19T00:32:21.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A topic-centric list of HQ open datasets.",
@@ -9,11 +9,11 @@
       "id": 26898879,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-17T18:39:23Z",
+      "last_commit": "2026-11-18T18:10:34Z",
       "open_issues": 170,
       "owner": "awesomedata",
       "repo": "awesome-public-datasets",
-      "stars": 80181,
+      "stars": 80196,
       "topics": [
         "aaron-swartz",
         "awesome-public-datasets",
@@ -21,7 +21,7 @@
         "opendata"
       ]
     },
-    "original_repository_sha": "2aa0de804fdae3b28ecebdda3a48a82b4f399003",
+    "original_repository_sha": "bef20d9c386e3ed19df3be642b064ff22ea5bb00",
     "enhanced_repository": "enhansome/enhansome-public-datasets",
     "enhanced_repository_description": null,
     "title": "Awesome Public Datasets with stars"
