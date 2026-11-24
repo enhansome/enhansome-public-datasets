@@ -2,7 +2,7 @@
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
 :alt: Awesome
-:target: <https://github.com/sindresorhus/awesome> ⭐ 541,095 | 🐛 103 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 541,767 | 🐛 103 | 📅 2026-09-02
 
 This is a list of `topic-centric public data sources <https://github.com/awesomedata/awesome-public-datasets>`\_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
@@ -601,7 +601,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Shortlist Price Index - Monthly snapshots of entry-level list prices for software and [...] <https://github.com/ies86/shortlist-price-index>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Shortlist-Price-Index.yml>`\_]
 
-* |FIXME\_ICON| `SmoothQuotes Home Services Price Index - Mix-adjusted price index for U.S. home services [...] <https://smoothquotes.com/price-index/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SmoothQuotes-Home-Services-Price-Index.yml>`\_]
+* |OK\_ICON| `SmoothQuotes Home Services Price Index - Mix-adjusted price index for U.S. home services [...] <https://smoothquotes.com/price-index/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SmoothQuotes-Home-Services-Price-Index.yml>`\_]
 
 * |OK\_ICON| `StartupPerks Startup Benefits Dataset - A catalog of 1,058 advertised startup benefit [...] <https://github.com/yumaheymans/startupperks-open-dataset?utm_source=awesome_public_datasets&utm_medium=listing&utm_campaign=open-dataset>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/StartupPerks-Startup-Benefits.yml>`\_]
 
@@ -955,7 +955,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Shadow Accrual Maps - The repository contains the accumulated shadow information for New York [...] <https://github.com/VIDA-NYU/shadow-accrual-maps/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Shadow-Accrual-Maps.yml>`\_]
 
-* |FIXME\_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`\_]
+* |OK\_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`\_]
 
 * |OK\_ICON| `TZ Timezones shapefile <http://efele.net/maps/tz/world/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TZ-Timezones-shapfiles.yml>`\_]
 
@@ -1673,7 +1673,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |FIXME\_ICON| `CultureTechLens Black Cultural Knowledge Graph - An open, evidence-graded knowledge graph of [...] <https://doi.org/10.5281/zenodo.23403147>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/CultureTechLens-Black-Cultural-Knowledge-Graph.yml>`\_]
 
-* |OK\_ICON| `Islam Museum Knowledge Graph - A knowledge graph of Islamic history published by [...] <https://zenodo.org/records/24273663>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Islam-Museum-Knowledge-Graph.yml>`\_]
+* |FIXME\_ICON| `Islam Museum Knowledge Graph - A knowledge graph of Islamic history published by [...] <https://zenodo.org/records/24273663>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Islam-Museum-Knowledge-Graph.yml>`\_]
 
 * |OK\_ICON| `Metropolitan Museum of Art Collection API <https://metmuseum.github.io/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Metropolitan-Museum-of-Art-Collection-API.yml>`\_]
 
@@ -2121,7 +2121,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UCLA-Social-Sciences-Data-Archive.yml>`\_]
 
-* |FIXME\_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UN-Civil-Society-Database.yml>`\_]
+* |OK\_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UN-Civil-Society-Database.yml>`\_]
 
 * |OK\_ICON| `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UPJOHN-for-Labor-Employment-Research.yml>`\_]
 
@@ -2405,4 +2405,4 @@ Special thanks to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
