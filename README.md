@@ -2,7 +2,7 @@
 
 .. image:: <https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg>
 :alt: Awesome
-:target: <https://github.com/sindresorhus/awesome> ⭐ 542,872 | 🐛 103 | 📅 2026-09-02
+:target: <https://github.com/sindresorhus/awesome> ⭐ 543,460 | 🐛 103 | 📅 2026-09-02
 
 This is a list of `topic-centric public data sources <https://github.com/awesomedata/awesome-public-datasets>`\_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
@@ -611,7 +611,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `State of ATS 2026 — Verified Employer ATS Dataset - Which applicant tracking system (ATS) [...] <https://github.com/Kayvan-Zahiri/state-of-ats-2026>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/State-of-ATS-2026.yml>`\_]
 
-* |OK\_ICON| `Statistics of the World — Global Economic Data for 218 Countries - 440+ economic, [...] <https://statisticsoftheworld.com/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Statistics-of-the-World.yml>`\_]
+* |OK\_ICON| `Statistics of the World, Global Economic Data for 217 Countries - 335 economic, demographic, [...] <https://statisticsoftheworld.com/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Statistics-of-the-World.yml>`\_]
 
 * |FIXME\_ICON| `SupPrice-Index - monthly price index for dietary supplements in German online retail - [...] <https://doi.org/10.5281/zenodo.22017250>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SupPrice-Index-German-Supplement-Prices.yml>`\_]
 
@@ -1231,6 +1231,8 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `PottyDirectory — US Portable Restroom & Public Restroom Open Data - Open dataset of 3,649 US [...] <https://pottydirectory.com/data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/PottyDirectory-USA.yml>`\_]
 
+* |OK\_ICON| `Prince George, BC Council Voting Records - Structured voting records from Prince George, [...] <https://princegeorgepulse.ca/civic/council-votes/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Prince-George-Council-Voting-Records.yml>`\_]
+
 * |OK\_ICON| `ProcureData - Canadian Federal Procurement API - REST API for Canadian federal procurement [...] <https://procuredata.ca>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/ProcureData-Canadian-Federal-Procurement-API.yml>`\_]
 
 * |FIXME\_ICON| `Consumer Product Recalls by Barcode (EAN/GTIN) - 36,582 consumer product-safety recall [...] <https://doi.org/10.5281/zenodo.22685727>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/ProductGuru-Consumer-Product-Recalls-by-Barcode.yml>`\_]
@@ -1379,7 +1381,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Victoria, BC, Canada <http://opendata.victoria.ca/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Victoria-BC-Canada.yml>`\_]
 
-* |FIXME\_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vienna-Austria.yml>`\_]
+* |OK\_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vienna-Austria.yml>`\_]
 
 * |OK\_ICON| `Statistics from the General Statistics Office of Vietnam - Data in different categories are [...] <https://www.nso.gov.vn/en/homepage/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vietnam.yml>`\_]
 
@@ -1637,7 +1639,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/More-Song-Datasets.yml>`\_]
 
-* |OK\_ICON| `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/MovieLens-Data-Sets.yml>`\_]
+* |FIXME\_ICON| `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/MovieLens-Data-Sets.yml>`\_]
 
 * |OK\_ICON| `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/New-Yorker-caption-contest-ratings.yml>`\_]
 
@@ -2195,7 +2197,7 @@ the `slack community <https://awesomedataworld.slack.com>`\_ for an instant touc
 
 * |OK\_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`\_]
 
-* |FIXME\_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`\_]
+* |OK\_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`\_]
 
 * |OK\_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`\_ \[`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`\_]
 
@@ -2409,4 +2411,4 @@ Special thanks to
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
